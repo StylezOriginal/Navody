@@ -1,0 +1,26 @@
+# Jak udělat barvy  (ff0099)
+StylezOriginal
+
+
+<body>
+  <p style="color:#FF0000";>FF0000</p>
+</body>
+<body>
+  <p style="color:#00FF00";>00FF00</p>
+</body>
+<body>
+  <p style="color:#0000FF";>0000FF</p>
+</body>
+  
+
+
+
+Barvy v hex code je pro někoho těžký a zase naopak
+
+První dva cody představují červenou barvu ( FF0000 )
+Druhý dva cody jsou barva zelený ( 00FF00 )
+A poslední představují modrou ( 0000FF )
+
+Hodnoty barvy jsou : 0 1 2 3 4 5 6 7 8 9 A B C D E F
+
+Když víš co se stane když dáš dohromady červenou a zelenou tak vznikne žlutá ( FFFF00 )

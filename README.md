@@ -2,15 +2,7 @@
 StylezOriginal
 
 
-<body>
-  <p style="color:#FF0000";>FF0000</p>
-</body>
-<body>
-  <p style="color:#00FF00";>00FF00</p>
-</body>
-<body>
-  <p style="color:#0000FF";>0000FF</p>
-</body>
+<TEXT="ff0000">
   
 
 
